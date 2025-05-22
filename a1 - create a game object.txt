@@ -1,0 +1,9 @@
+-- Choose main.collection
+-- In Outline, right click and choose "Add game object"
+-- Name it in the Id box, e.g. "char"
+
+-- Right click main.collection, add new script. Name it "char"
+-- Right click "char" game object, "add component file" and choose "char.script"
+-- Change the code in "char.script"
+
+function init(self)
